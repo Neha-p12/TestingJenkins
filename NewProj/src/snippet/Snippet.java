@@ -5,6 +5,7 @@ public class Snippet {
 	System.out.println("HIIiiii");
 	System.out.println("World");
 	System.out.println("Welcome");
+	System.out.println("to jenkins tutorial");
 	}
 }
 
